@@ -1,4 +1,4 @@
-# High Availability Employee Directory
+# AWS Cloud High Availability Employee Directory Project
 
 ## Description
 This project demonstrates how to configure high availability for an Employee Directory application using AWS services. The setup includes an Application Load Balancer, a Launch Template, and an Auto Scaling group to ensure the application can handle varying levels of traffic and maintain availability.
